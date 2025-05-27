@@ -92,6 +92,7 @@ ginza-clinic-marketing/
 - [💰 アップセル戦略設計](./project-specific/marketing-strategy/upsell-strategy.md)
 - [🎯 ペルソナ別マーケティング](./project-specific/marketing-strategy/persona-based-marketing.md)
 - [🗺️ カスタマージャーニーマップ](./project-specific/marketing-strategy/customer-journey-mapping.md)
+- [🚀 **HP-LP統合型戦略プラン（4案比較）**](./project-specific/marketing-strategy/hp-lp-integrated-strategy-plans.md)
 
 #### 施策・成果物
 - [📱 LPワイヤーフレーム提案](./project-specific/campaign-assets/lp-content/wireframe-proposal.md)
