@@ -4,35 +4,28 @@
 銀座のクリニックのデジタルマーケティング戦略策定・実行プロジェクト
 
 > **📁 ファイル構成**: 
-> - `efficiency-framework/`: AI活用効率化の汎用手法・テンプレート
+> - `efficiency-framework/`: マーケティング手法・テンプレート
 > - `project-specific/`: 銀座クリニック案件固有の情報・戦略
 
 ## 🎯 プロジェクト目標
-- 効率的なLP制作とLINE公式アカウント構築
-- AI/MCPを活用した工程最適化（従来比70%時間短縮）
+- LP制作とLINE公式アカウント構築
+- デジタルマーケティング戦略の最適化
 - 再利用可能なマーケティング資産の構築
 
-## 📊 効率化実績
-| 項目 | 従来工数 | AI活用後 | 削減率 |
-|------|----------|----------|--------|
-| LP制作 | 42h | 11.5h | 73% |
-| LINE構築 | 31h | 10h | 68% |
-| 合計 | 73h | 21.5h | 71% |
 
 ## 🚀 使用技術・ツール
-- **AI**: Claude Code + MCP Servers
-- **リサーチ**: Firecrawl, Brave Search
-- **開発**: GitHub, Figma MCP, Playwright
+- **リサーチ**: Web調査、競合分析
+- **開発**: GitHub、デザインツール
 - **プロジェクト管理**: GitHub Projects
 
 ## 📁 プロジェクト構成
 ```
 ginza-clinic-marketing/
 ├── README.md                      # プロジェクト概要
-├── efficiency-framework/          # 🔧 汎用効率化フレームワーク
+├── efficiency-framework/          # 🔧 汎用マーケティングフレームワーク
 │   ├── README.md                  # フレームワーク概要
 │   ├── methodologies/             # 手法・方法論
-│   │   └── ai-research-methods.md # AI調査手法
+│   │   └── research-methods.md    # 調査手法
 │   ├── templates/                 # テンプレート集
 │   ├── tools-config/              # ツール設定
 │   └── case-studies/              # 事例・実績
@@ -66,9 +59,9 @@ ginza-clinic-marketing/
 
 ## 📂 主要ファイル・ドキュメント
 
-### 🔧 効率化フレームワーク
+### 🔧 マーケティングフレームワーク
 - [📋 フレームワーク概要](./efficiency-framework/README.md)
-- [🔍 AI調査手法](./efficiency-framework/methodologies/ai-research-methods.md)
+- [🔍 調査手法](./efficiency-framework/methodologies/research-methods.md)
 
 ### 🏥 Re:anne clinic 案件資料
 - [📋 案件概要](./project-specific/README.md)
@@ -99,13 +92,13 @@ ginza-clinic-marketing/
 - [💬 LINE公式改善提案](./project-specific/campaign-assets/line-scenarios/line-improvement-proposal.md)
 
 ### 📚 共通ドキュメント
-- [⚡ AI効率化戦略](./docs/efficiency-strategy.md)
+- [⚡ マーケティング戦略](./docs/efficiency-strategy.md)
 - [📊 工程比較分析](./docs/process-comparison.md)
 
 ## 📈 プロジェクト進行状況
-- [x] AI活用最適化戦略策定
+- [x] マーケティング戦略策定
 - [x] プロジェクト基盤構築
-- [x] 効率化フレームワーク・案件固有情報の分離
+- [x] フレームワーク・案件固有情報の分離
 - [x] **Re:anne clinic基本情報収集・整理**
 - [x] **詳細競合・市場調査（実顧客検索行動ベース）**
 - [x] **10ペルソナ設計・カスタマージャーニーマップ**
@@ -124,10 +117,10 @@ ginza-clinic-marketing/
 - ✅ LPワイヤーフレーム・LINE改善提案完成
 
 ## 🔗 関連リンク
-- [効率化フレームワーク](./efficiency-framework/README.md)
+- [マーケティングフレームワーク](./efficiency-framework/README.md)
 - [案件固有情報](./project-specific/README.md)
-- [効率化戦略詳細](./docs/efficiency-strategy.md)
+- [マーケティング戦略詳細](./docs/efficiency-strategy.md)
 - [工程比較分析](./docs/process-comparison.md)
 
 ---
-*AI活用によるマーケティング効率化プロジェクト*
+*デジタルマーケティング最適化プロジェクト*
