@@ -59,9 +59,6 @@ ginza-clinic-marketing/
 
 ## 📂 主要ファイル・ドキュメント
 
-### 🔧 マーケティングフレームワーク
-- [📋 フレームワーク概要](./efficiency-framework/README.md)
-- [🔍 調査手法](./efficiency-framework/methodologies/research-methods.md)
 
 ### 🏥 Re:anne clinic 案件資料
 - [📋 案件概要](./project-specific/README.md)
