@@ -81,6 +81,9 @@ ginza-clinic-marketing/
 #### 市場分析・競合調査
 - [🏆 競合分析レポート](./project-specific/market-analysis/competitor-landscape.md)
 - [🔍 実践的競合分析](./project-specific/market-analysis/detailed-competitor-analysis.md)
+- [📊 **30クリニック包括競合分析**](./project-specific/market-analysis/comprehensive-competitor-analysis-30.md)
+- [🎨 **LP構成・デザイン比較マトリックス**](./project-specific/market-analysis/lp-design-comparison-matrix.md)
+- [🎯 **ブランドポジショニング分析**](./project-specific/market-analysis/brand-positioning-analysis.md)
 - [👥 10ペルソナ詳細設計](./project-specific/market-analysis/customer-personas.md)
 
 #### マーケティング戦略
