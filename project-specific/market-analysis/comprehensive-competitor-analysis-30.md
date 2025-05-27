@@ -37,7 +37,13 @@ LP構成:
 
 #### 2. 品川美容外科
 ```
-URL: https://www.shinagawa.com/
+HP（企業総合サイト）: https://www.shinagawa.com/
+LP（専門特化サイト）:
+├─ フォトシルクプラスLP: https://lp.shinagawa.com/
+├─ 美肌注射プレミアムLP: https://www.shinagawa.com/lp/
+├─ 姉妹院（品川スキン）: https://shinagawa-skin.com/
+└─ 症例専用サイト: https://www.shinagawa-form.com/
+
 ファーストビュー: "全国39院・開院37年の歴史と実績"
 LP構成:
 ├── 歴史・実績重視のトップメッセージ
@@ -53,7 +59,13 @@ LP構成:
 
 #### 3. TCB東京中央美容外科
 ```
-URL: https://aoki-tsuyoshi.com/
+HP（企業総合サイト）: https://aoki-tsuyoshi.com/
+LP（専門特化サイト）:
+├─ メンズ専用サイト: https://tcb-mens.com/
+├─ 症例写真専用: https://tcb-skin.jp/
+├─ 採用専用サイト: https://tcj-clinic.com/
+└─ 施術別LP: メインサイト内配置
+
 ファーストビュー: "話題の美容医療デビューはTCB"
 LP構成:
 ├── 25,000円割引クーポン前面
@@ -103,7 +115,13 @@ LP構成:
 
 #### 6. 銀座よしえクリニック
 ```
-URL: https://www.ginzabiyou.com/
+HP（企業総合サイト）: https://www.ginzabiyou.com/
+LP（施術特化ページ）:
+├─ 毛穴治療LP: サイト内特化ページ
+├─ シミ治療LP: サイト内特化ページ
+├─ レーザー治療LP: サイト内特化ページ
+└─ 各院別ページ: 8院展開対応
+
 ファーストビュー: "銀座で美肌治療なら"
 LP構成:
 ├── 開業20万人実績強調
@@ -185,7 +203,13 @@ LP構成:
 
 #### 11. タカミクリニック（表参道）
 ```
-URL: https://takamiclinic.or.jp/
+HP（企業総合サイト）: https://takamiclinic.or.jp/
+LP（専門治療特化）:
+├─ ニキビ治療LP: 専門特化ページ
+├─ 毛穴治療LP: サイト内特化
+├─ シミ治療LP: サイト内特化
+└─ 美肌育成LP: サイト内特化
+
 ファーストビュー: "ニキビ治療で有名なクリニック"
 LP構成:
 ├── ニキビ・毛穴専門性強調
