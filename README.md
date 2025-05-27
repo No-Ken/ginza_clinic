@@ -90,6 +90,7 @@ ginza-clinic-marketing/
 #### 施策・成果物
 - [📱 LPワイヤーフレーム提案](./project-specific/campaign-assets/lp-content/wireframe-proposal.md)
 - [💬 LINE公式改善提案](./project-specific/campaign-assets/line-scenarios/line-improvement-proposal.md)
+- [🎨 **LP・LINE想定成果物（5パターン）**](./project-specific/campaign-assets/deliverables-5patterns.md)
 
 ### 📚 共通ドキュメント
 - [⚡ マーケティング戦略](./docs/efficiency-strategy.md)
